@@ -14,14 +14,25 @@ Componente utilizate
 
 •	Senzor umiditate sol YL-69
 
+
 •	Buzzer
+
 •	Buton
+
 •	Led Roșu 5mm
+
 •	Rezistenta 10 kohm (albastra)
+
 •	Rezistenta 200 ohm (albastra, la led)
+
 •	Rezistenta 218 ohm (maro)
+
 •	Modul NodeMcu WIFI ESP 8266 V3.0
+
 •	Cabluri mama – mama
+
 •	Cabluri tata - tata
+
 •	Cabluri mama – tata
+
 •	Opțional – doză electrică 
