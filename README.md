@@ -3,11 +3,17 @@ Sistem Automat de Udat Plante | Arduino
 
 Componente utilizate
 •	Arduino UNO
+
 •	1 x Breadboard
+
 •	Display Nokia 5110
+
 •	Releu Keyes
+
 •	Senzor de temperatură și umiditate DHT11
+
 •	Senzor umiditate sol YL-69
+
 •	Buzzer
 •	Buton
 •	Led Roșu 5mm
