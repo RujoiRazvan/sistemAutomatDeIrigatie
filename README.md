@@ -1,4 +1,6 @@
 # sistemAutomatDeUdatPlante
+Proiect Informatică Aplicată II
+
 Sistem Automat de Udat Plante | Arduino
 
 Componente utilizate
