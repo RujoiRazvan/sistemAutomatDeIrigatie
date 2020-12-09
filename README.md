@@ -8,12 +8,13 @@ Componente utilizate
 
 •	Display Nokia 5110
 
-•	Releu Keyes
+•	Releu 5V Keyes
+
+• Pompă submersibilă de apă 5V
 
 •	Senzor de temperatură și umiditate DHT11
 
 •	Senzor umiditate sol YL-69
-
 
 •	Buzzer
 
