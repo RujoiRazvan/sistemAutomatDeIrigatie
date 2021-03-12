@@ -1,7 +1,7 @@
-# sistemAutomatDeUdatPlante
+# Sistem Automat de Irigatie
 Proiect Informatică Aplicată II
 
-Sistem Automat de Udat Plante | Arduino
+Sistem Automat de Irigatie | Arduino
 
 Componente utilizate
 •	Arduino UNO
@@ -30,7 +30,7 @@ Componente utilizate
 
 •	Rezistenta 218 ohm (maro)
 
-•	Modul NodeMcu WIFI ESP 8266 V3.0
+•	Modul NodeMcu WIFI ESP 8266 V3.0 (intreg proiectul poate fi realizat doar cu acest microcontroller, fara a mai folosi si Arduino Uno)
 
 •	Cabluri mama – mama
 
