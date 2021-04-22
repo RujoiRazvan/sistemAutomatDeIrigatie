@@ -39,3 +39,5 @@ Componente utilizate
 •	Cabluri mama – tata
 
 •	Opțional – doză electrică 
+
+![alt text](http://url/to/img.png)
