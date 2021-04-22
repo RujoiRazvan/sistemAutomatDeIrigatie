@@ -40,4 +40,4 @@ Componente utilizate
 
 •	Opțional – doză electrică 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/RujoiRazvan/sistemAutomatDeIrigatie/blob/341d5dd3df3abc80188f55fccf02b9254a51468c/Poze%20proiect/2020-12-09%2018.13.12%20IMG_5424.JPG)
